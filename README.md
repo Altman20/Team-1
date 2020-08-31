@@ -1,14 +1,6 @@
 # Team-1
 MSIS
- dev-<smbae9407>
-smbae9407
-=======
- dev-nicoleelarue
-nicoleelarue
-
-=======
 altman20
+nicoleelarue
 shcloud
- master
-
-master
+smbae9407
